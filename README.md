@@ -37,11 +37,11 @@ Address-Book/
 └── README.md
 
 ## File Descriptions
-# main.c 
+### main.c 
 Contains the main entry point and coordinates program execution
-# contact.c 
+### contact.c 
 Contains the implementation of contact-related operations
-# contact.h 
+### contact.h 
 Contains declarations and shared definitions related to contact management
 # file.c 
 Contains file-handling functions for reading or writing contact data
