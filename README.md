@@ -43,17 +43,17 @@ Contains the main entry point and coordinates program execution
 Contains the implementation of contact-related operations
 ### contact.h 
 Contains declarations and shared definitions related to contact management
-# file.c 
+### file.c 
 Contains file-handling functions for reading or writing contact data
-# file.h 
+### file.h 
 Contains declarations for the file-handling module
-# populate.c 
+### populate.c 
 Contains functions for initializing or populating contact records, depending on the implementation
-# populate.h 
+### populate.h 
 Contains declarations for the population or initialization functions
-# contacts.txt 
+### contacts.txt 
 A text file used for contact data, if configured by the application
-# README.md 
+### README.md 
 Documents the application, its structure, and instructions for use
 
 ## Concepts
